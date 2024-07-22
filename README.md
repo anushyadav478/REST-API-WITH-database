@@ -14,3 +14,5 @@ Technical Requirements
 Node.js (version 14 or higher)
 Express.js (version 4 or higher)
 MySQL (version 8 or higher)
+
+download the necessary modules 
